@@ -330,12 +330,8 @@
       "description": "Invicible full rotation transform. (like Rage) Check details for more info"
     },
     {
-      "id": "80",
-      "name": "Change Counter Attack ",
-      "eff_value1": "Damage Reduction (%)",
-      "eff_value2": " Counter Multiplier",
-      "eff_value3": "Lua Script #",
-      "description": "From folder [lua] > [ab_script] > [attack_counter] > cXXXX.lua"
+      "id": "80 (removed)",
+      "name": "refer to efficacy 120 now",
     },
     {
       "id": "81",
@@ -488,6 +484,19 @@
       "id": "111",
       "name": "Nullify action",
       "description": "Use probability for chance, Always use target enemy or all enemies "
+    },
+    {
+      "id": "119",
+      "name": "nofuckingclueicl"
+      "description": "smth about super attack nullifications idk"
+    },
+    {
+      "id": "120",
+      "name": "Change Counter Attack ",
+      "eff_value1": "Damage Reduction (%)",
+      "eff_value2": " Counter Multiplier",
+      "eff_value3": "Lua Script #",
+      "description": "From folder [lua] > [ab_script] > [attack_counter] > cXXXX.lua"
     }
   ],
   "Casualties": [
